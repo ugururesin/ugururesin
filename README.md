@@ -43,9 +43,7 @@ A **AI/ML Team Leader** 🚀 from Istanbul, Turkey
 
 <img src="https://github-readme-stats.vercel.app/api?username=ugururesin&show_icons=true&hide_border=true&count_private=true&theme=shades-of-purple&icon_color=fad000" alt="Ugur's GitHub Stats">
 
-⭐️ From [Ugur Uresin](https://github.com/ugururesin)
-
 ----
-Credit: [Ugur Uresin](https://github.com/ugururesin)
+⭐️Credit: [Ugur Uresin](https://github.com/ugururesin)
 
 Last Edited on: 02/09/2022
