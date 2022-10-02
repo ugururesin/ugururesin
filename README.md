@@ -41,6 +41,6 @@ A **AI/ML Team Leader** 🚀 from Istanbul, Turkey
 ⭐️ From [Ugur Uresin](https://github.com/ugururesin)
 
 ----
-Credit: [ZamranxD](https://github.com/ugururesin)
+Credit: [Ugur Uresin](https://github.com/ugururesin)
 
 Last Edited on: 02/09/2022
