@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 <br />
 <br />
 
-A **AI/ML Team Leader** 🚀 from Istanbul, Turkey
+An **AI/ML Team Leader in Automotive Industry** 🚀 from Istanbul, Turkey
 
 
 **Languages and Tools:**  
