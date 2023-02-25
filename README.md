@@ -27,6 +27,7 @@ Here are some ideas to get you started:
 
 **AI/ML Team Leader in Automotive Industry** 🚀 from Istanbul, Turkey
 
+**Check out my** [My Portfolio](https://github.com/ugururesin/portfolio)
 
 **Languages and Tools:**  
 
