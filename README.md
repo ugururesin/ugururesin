@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 <br />
 <br />
 
-**Smart Manufacturing & Digital Twin Team Leader in Automotive Industry** 🚀 from Istanbul, Turkey
+**Manufacturing Analytics Product Owner in Automotive Industry** 🚀 from Istanbul, Turkey
 
 **Check out my** [My Portfolio](https://github.com/ugururesin/portfolio)
 
