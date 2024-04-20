@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 <br />
 <br />
 
-**Currently Working as "Digital Product Owner - Data Analytics & AI - Manufacturing & Operations at FORD OTOSAN** 🚀 in Istanbul
+**Currently Working as Digital Product Owner - Data Analytics & AI - Manufacturing & Operations at FORD OTOSAN** 🚀 in Istanbul
 
 **Check out my** [My Portfolio](https://github.com/ugururesin/portfolio)
 
