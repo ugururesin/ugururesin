@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on [FORD OTOSAN](https://www.fordotosan.com.tr/en)
 - 🌱 I’m currently pursuing my PhD
-- 👯 I’m looking to collaborate on **Digital Twin Research**
+- 👯 I’m looking to collaborate on **Agentic AI and Generative AI**
 - 🤔 I’m looking for help with **AI at Scale**
 - 💬 Ask me about **Digital Twins and Industrial AI**
 - 📫 How to reach me: uresin.ugur@gmail.com
@@ -45,4 +45,4 @@ Here are some ideas to get you started:
 ----
 ⭐️Credit: [Ugur Uresin](https://github.com/ugururesin)
 
-Last Edited on: 2023/02/25
+Last Edited on: 2025/02/22
